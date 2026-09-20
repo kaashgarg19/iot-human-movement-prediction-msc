@@ -1,12 +1,14 @@
 # IoT Human Movement Prediction — MSc Dissertation
 
-Original MSc dissertation project completed as part of the **MSc Advanced Computer Science** at Birmingham City University.
+This is my original MSc dissertation project, completed during the **MSc Advanced Computer Science** at Birmingham City University.
 
 ## Project
 
 **Intelligent System to Predict Human Movement near IoT Devices**
 
-The project explored whether environmental sensor measurements collected from IoT devices could be used to predict human movement.
+I explored whether environmental sensor measurements collected from IoT devices could be used to predict human movement.
+
+The work brought together data preparation, exploratory analysis and several machine-learning approaches to see how well the sensor data could be used for prediction.
 
 The original implementation covers:
 
@@ -24,7 +26,7 @@ The original implementation covers:
 - [Aman.py](code/Aman.py) — original MSc implementation
 - [AmanGuptaDissertation_20101021.docx](dissertation/AmanGuptaDissertation_20101021.docx) — original dissertation
 
-The original Python implementation is preserved as submitted/worked on for the MSc project. It has not been rewritten as part of the later research extension.
+I have kept the original Python implementation here as a record of the MSc work. It has not been rewritten as part of the later research extension.
 
 ## Models explored
 
@@ -49,7 +51,9 @@ The dataset is not included in this repository at present.
 
 ## Context
 
-This repository contains the **original MSc work only**. A separate repository contains the later research extension and additional robustness experiments.
+This repository is for the **original MSc work only**.
+
+I keep the later research extension in a separate repository so it is easy to distinguish the original 2021 project from the experiments I am doing now.
 
 ## Author
 
